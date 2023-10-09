@@ -1,0 +1,25 @@
+/* Cambiar el fondo del menú */
+.mat-toolbar {
+    background-color: #333; /* Cambia el color de fondo a tu elección */
+  }
+  
+  /* Cambiar el color de texto del menú */
+  .mat-toolbar-row h1 {
+    color: #fff; /* Cambia el color de texto a tu elección */
+  }
+  
+  /* Cambiar el color de los iconos del menú */
+  .mat-icon {
+    color: #fff; /* Cambia el color de los iconos a tu elección */
+  }
+  
+  /* Cambiar el color de texto del menú desplegable */
+  .mat-list-item div {
+    color: #333; /* Cambia el color de texto a tu elección */
+  }
+  
+  /* Cambiar el fondo del menú desplegable al pasar el mouse */
+  .mat-list-item:hover {
+    background-color: #555; /* Cambia el color de fondo al pasar el mouse */
+  }
+  
